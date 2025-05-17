@@ -1,0 +1,3 @@
+function caculateResult() {
+    const result
+}
